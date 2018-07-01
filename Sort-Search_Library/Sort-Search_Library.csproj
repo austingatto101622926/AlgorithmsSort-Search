@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary.cs" />
     <Compile Include="csvReader.cs" />
     <Compile Include="Insertion.cs" />
     <Compile Include="Linear.cs" />
